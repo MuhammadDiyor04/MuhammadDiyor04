@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Diyor
-- 👀 I’m interested in interested in creating websites.
-- 🌱 I’m currently learning Java, React.
+- 👀 I’m interested in creating websites.
+- 🌱 I’m currently learning Java, HTML, React.
 - 💞️ I’m looking to collaborate on SKYZONE
 - 📫 How to reach me : maxmudovdiyor65@gmail.com => +998(99)908-36-49
 
